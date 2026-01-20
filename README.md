@@ -10,7 +10,7 @@ The objective is to understand sales trends, seasonality, and future demand to s
 
 ## Dataset
 
-- **Source:** Walmart US Sales Dataset  
+- **Source:** Walmart US Sales Dataset
 - **Format:** csv (.csv)  
 - **Granularity:** Daily sales data  
 
